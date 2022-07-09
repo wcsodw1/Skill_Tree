@@ -36,10 +36,6 @@ B.DevOps:Backend後端工程
 ====== NLP ======
 - 關於NLP的應用分享一些曾接觸的專案應用到的技術細節:
     - 1.Preprocessing : Word Cut
-    - 2.feature_engineering : bag of words/ TFIDF
-    - 3.Word to Vector : skip-gram/CBOW/Clustering/k-means/doc2vec
-    - 4.Predict : use RNN text classification
-    - 5.Attention is all you need   
-    - 6.Apply: PTT gossip like/dislike binary classification
+    - 2.Feature_engineering(Keyword Extract) : bag of words(BOW)/TF-IDF
+    - 3.Word2Vector Model : kip-gram/CBOW/Clustering/k-means/doc2vec/Elmo/Transformer/BERT
 
-* Model : ELMO/ BERT/ Transformer
