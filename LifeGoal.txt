@@ -1,7 +1,10 @@
-# Skill_Tree
-The total software skill and knowledge that I used to participate
+
+# MLOps AI : 
+- NLP 6/26
+- Docker/ ELK/ K8S
 
 
+您好，我是David Lin, 鑽研於
 A.MLOps:AI(ML/DL/Data Science)機器/深度學習/資料科學工程
 B.DevOps:Backend後端工程
 
